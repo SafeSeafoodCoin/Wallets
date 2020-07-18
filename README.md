@@ -7,3 +7,5 @@ https://github.com/SafeSeafoodCoin/SafeSeafood/releases/download/v1.1.0.3/SafeSe
 https://github.com/SafeSeafoodCoin/SafeSeafood/releases/download/v1.1.0.3/SafeSeafood.Ubuntu.16.daemon.zip
 # Linux Ubuntu 16 GUI
 https://github.com/SafeSeafoodCoin/SafeSeafood/releases/download/v1.1.0.3/SafeSeafood.Ubuntu.16.GUI.zip
+# Mac GUI
+https://github.com/SafeSeafoodCoin/Wallets/blob/master/SafeSeafood-qt.dmg
